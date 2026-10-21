@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "0c81543a-cd11-49ad-9fd9-29e3593d3707",
+    "name": "Wireless Headphones - Edition 1",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 1999,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 1 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "fa4c3a44-c7a1-45d6-bacc-507c1b423c7b",
+    "name": "Wireless Headphones - Edition 2",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2099,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 2 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "4fa64a5f-f95b-466a-bee8-a8705350e3df",
+    "name": "Wireless Headphones - Edition 3",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2199,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 3 in our Electronics collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "6d08764f-03de-430a-acd0-7f9a7b7b03f9",
+    "name": "Wireless Headphones - Edition 4",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2299,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 4 in our Electronics collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "29d7714c-0cb5-41a4-8d0d-250cfaf0d271",
+    "name": "Wireless Headphones - Edition 5",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2399,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 5 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "253080b0-6461-479d-9a33-bb4dbb82f7d0",
+    "name": "Wireless Headphones - Edition 6",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2499,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 6 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "b2030ad3-3e0d-44b9-a5f3-dc40524a400f",
+    "name": "Wireless Headphones - Edition 7",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2599,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 7 in our Electronics collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "ff4b286e-03da-466d-8553-72d681cf241a",
+    "name": "Wireless Headphones - Edition 8",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2699,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 8 in our Electronics collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "41f06ec9-3424-478a-892a-d929c1a9032d",
+    "name": "Wireless Headphones - Edition 9",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2799,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 9 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "68fc2bf1-e76a-42ad-8c79-99d0841187f5",
+    "name": "Wireless Headphones - Edition 10",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+    "price": 2899,
+    "rating": 4.5,
+    "description": "Wireless audio headphones designed for music, calls, and everyday listening. This is edition 10 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "948c0530-0929-4947-bc86-01893bf21a81",
+    "name": "Smart Watch - Edition 1",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 2999,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 1 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "8aaae656-7654-459d-b574-18b3c5fff6d3",
+    "name": "Smart Watch - Edition 2",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3099,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 2 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "c2937f8b-5c9d-4bcc-baed-57459152094a",
+    "name": "Smart Watch - Edition 3",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3199,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 3 in our Electronics collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "d9c28e3b-1c3f-4154-903f-cc4e8f2540e1",
+    "name": "Smart Watch - Edition 4",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3299,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 4 in our Electronics collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "ade574df-8c32-4c08-bba0-24d9a96dca4a",
+    "name": "Smart Watch - Edition 5",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3399,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 5 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "f361effd-92b1-4671-98c0-d6a1da0dac6b",
+    "name": "Smart Watch - Edition 6",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3499,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 6 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "768d7908-ff12-43fb-9ad5-b9a044f5c2d9",
+    "name": "Smart Watch - Edition 7",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3599,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 7 in our Electronics collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "edc8571b-d713-41c1-93e4-26a5cbe57145",
+    "name": "Smart Watch - Edition 8",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3699,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 8 in our Electronics collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "cc3b09a2-1764-4d21-9e7d-ee1488bb79e3",
+    "name": "Smart Watch - Edition 9",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3799,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 9 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "c978934a-b2ba-4624-a901-ebd61d0456b8",
+    "name": "Smart Watch - Edition 10",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "price": 3899,
+    "rating": 4.3,
+    "description": "A modern smartwatch style for everyday outfits and timekeeping. This is edition 10 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "d6df3965-65d5-46bf-a1f1-6fa382a59416",
+    "name": "Running Shoes - Edition 1",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 2499,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 1 in our Footwear collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "934122b3-a124-4815-99b2-642ecaf48c39",
+    "name": "Running Shoes - Edition 2",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 2599,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 2 in our Footwear collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "234f2904-57e0-4882-93d1-9c12a2e31ab0",
+    "name": "Running Shoes - Edition 3",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 2699,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 3 in our Footwear collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "886a7df6-01e1-45dd-afe6-efbea8b1d413",
+    "name": "Running Shoes - Edition 4",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 2799,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 4 in our Footwear collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "542d6ace-7d5e-4573-9b23-b54e532c38c0",
+    "name": "Running Shoes - Edition 5",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 2899,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 5 in our Footwear collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "3bbab162-2db7-4dcd-8b8f-798551232f43",
+    "name": "Running Shoes - Edition 6",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 2999,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 6 in our Footwear collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "e514b9c2-7ebf-4335-ba6d-7f07e78762a3",
+    "name": "Running Shoes - Edition 7",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 3099,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 7 in our Footwear collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "a931b286-e04c-49f4-985a-37b6670b3171",
+    "name": "Running Shoes - Edition 8",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 3199,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 8 in our Footwear collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "a291882f-2550-485c-a3cc-b1b33ceab514",
+    "name": "Running Shoes - Edition 9",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 3299,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 9 in our Footwear collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "de5fc8b6-66f1-44ac-946a-1f5c494688cd",
+    "name": "Running Shoes - Edition 10",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+    "price": 3399,
+    "rating": 4.6,
+    "description": "Comfortable sporty shoes for walking, training, and casual exercise. This is edition 10 in our Footwear collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "54903421-8965-4e22-a6c4-e1130c403206",
+    "name": "Casual T-Shirt - Edition 1",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 599,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 1 in our Clothing collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "e246c36a-626e-4aa0-acb2-384a660b78a1",
+    "name": "Casual T-Shirt - Edition 2",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 699,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 2 in our Clothing collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "b0b96d86-ec8f-453e-9992-512068dbf2a4",
+    "name": "Casual T-Shirt - Edition 3",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 799,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 3 in our Clothing collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "53b088e2-52e9-4ec8-bc2a-6e140dfbd2f2",
+    "name": "Casual T-Shirt - Edition 4",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 899,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 4 in our Clothing collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "060ad34f-d0a8-4db9-a076-87a78e6f32cc",
+    "name": "Casual T-Shirt - Edition 5",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 999,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 5 in our Clothing collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "1e3cf4fd-e481-4451-939e-a3e794d8cad2",
+    "name": "Casual T-Shirt - Edition 6",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 1099,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 6 in our Clothing collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "1eeec70b-75ec-4cb3-9685-66a429f3309c",
+    "name": "Casual T-Shirt - Edition 7",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 1199,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 7 in our Clothing collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "039ccb39-60a8-4e84-9a3c-9e6ddee70ce5",
+    "name": "Casual T-Shirt - Edition 8",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 1299,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 8 in our Clothing collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "256eca76-cd07-48d9-b43d-607f898a745c",
+    "name": "Casual T-Shirt - Edition 9",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 1399,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 9 in our Clothing collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "e5442ea3-5dfc-47e7-a7d7-a79e5126b285",
+    "name": "Casual T-Shirt - Edition 10",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "price": 1499,
+    "rating": 4.1,
+    "description": "A versatile casual T-shirt for everyday wear and easy styling. This is edition 10 in our Clothing collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "583ba967-3b0a-4f38-ad00-25ebf77573d3",
+    "name": "Handbag - Edition 1",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 1899,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 1 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "5bcac837-8a51-47ac-bf52-cf5ccb813e0a",
+    "name": "Handbag - Edition 2",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 1999,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 2 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "302251a6-b9d7-4499-b421-662e7c3939ce",
+    "name": "Handbag - Edition 3",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2099,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 3 in our Accessories collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "e09f1685-2646-4ff1-bdbe-20ca673067c0",
+    "name": "Handbag - Edition 4",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2199,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 4 in our Accessories collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "505aa08e-ad5f-426f-a2c9-bc3d22e14ca3",
+    "name": "Handbag - Edition 5",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2299,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 5 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "1e64bf98-c062-4a53-a351-ce06222faed8",
+    "name": "Handbag - Edition 6",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2399,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 6 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "5eab8cac-b27b-48e5-9988-284425dedba3",
+    "name": "Handbag - Edition 7",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2499,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 7 in our Accessories collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "84f5da5a-969a-4d07-a6fe-5215065e4e34",
+    "name": "Handbag - Edition 8",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2599,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 8 in our Accessories collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "e4ad1365-c4e5-4674-b76a-648955f924aa",
+    "name": "Handbag - Edition 9",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2699,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 9 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "f2c5fcb3-9066-4e08-8ac3-df70c7a4aedd",
+    "name": "Handbag - Edition 10",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600",
+    "price": 2799,
+    "rating": 4.4,
+    "description": "A fashionable bag with practical space for everyday essentials. This is edition 10 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "0427ce10-07ed-4c95-bc91-09c3e28d1514",
+    "name": "Sunglasses - Edition 1",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 899,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 1 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "11d6ac95-5100-49d3-8c51-0a8ccae1613a",
+    "name": "Sunglasses - Edition 2",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 999,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 2 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "15da6984-ac1b-4f67-991a-3bbc459911aa",
+    "name": "Sunglasses - Edition 3",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1099,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 3 in our Accessories collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "916ee405-b4ea-4884-b831-ba2676032ceb",
+    "name": "Sunglasses - Edition 4",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1199,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 4 in our Accessories collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "8395335f-ba0d-4f34-b621-7ac590ed5573",
+    "name": "Sunglasses - Edition 5",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1299,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 5 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "6205fe6c-edc7-4464-8b3c-af071687bd18",
+    "name": "Sunglasses - Edition 6",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1399,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 6 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "1bd16291-a622-431a-9ff5-700bcf6dee80",
+    "name": "Sunglasses - Edition 7",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1499,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 7 in our Accessories collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "9bde02a8-6a25-4e19-9b4e-e15e65901657",
+    "name": "Sunglasses - Edition 8",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1599,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 8 in our Accessories collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "386c4356-8078-4527-9ce8-fa67e2eddf13",
+    "name": "Sunglasses - Edition 9",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1699,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 9 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "ea964573-5afc-4545-97dd-2eee34fec62f",
+    "name": "Sunglasses - Edition 10",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600",
+    "price": 1799,
+    "rating": 4.2,
+    "description": "Stylish sunglasses to complement casual and outdoor looks. This is edition 10 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "c3415d16-e311-4a0e-82b7-b860949e1880",
+    "name": "Travel Backpack - Edition 1",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 1499,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 1 in our Bags collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "681b8663-3448-4999-b5f6-4e5c18bd6469",
+    "name": "Travel Backpack - Edition 2",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 1599,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 2 in our Bags collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "9091a447-fe87-45b7-8a5a-e9186bf61855",
+    "name": "Travel Backpack - Edition 3",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 1699,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 3 in our Bags collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "fd802c65-2672-4cc6-9aba-3f05cc72f7dd",
+    "name": "Travel Backpack - Edition 4",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 1799,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 4 in our Bags collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "ba81132f-f337-491e-9353-c37cecef19cc",
+    "name": "Travel Backpack - Edition 5",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 1899,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 5 in our Bags collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "140b88e5-4ba4-4c93-a5bc-46f7d90b1ee5",
+    "name": "Travel Backpack - Edition 6",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 1999,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 6 in our Bags collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "a29ddb9b-7d48-4b39-9605-5237cbb46926",
+    "name": "Travel Backpack - Edition 7",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 2099,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 7 in our Bags collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "3c824172-76cc-4017-8dfd-c6feb2bc9773",
+    "name": "Travel Backpack - Edition 8",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 2199,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 8 in our Bags collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "165940f8-86e7-448c-8d99-97a31c15890c",
+    "name": "Travel Backpack - Edition 9",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 2299,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 9 in our Bags collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "f1e75f67-ed40-4351-bb51-ef92653ee487",
+    "name": "Travel Backpack - Edition 10",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "price": 2399,
+    "rating": 4.5,
+    "description": "A versatile backpack for commuting, travel, and everyday storage. This is edition 10 in our Bags collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "f4f736d1-b156-4d1f-9d50-b02673cd5155",
+    "name": "Ceramic Coffee Mug - Edition 1",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 299,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 1 in our Home collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "32e3d349-0fb5-4cde-bde8-d3da07c4c60c",
+    "name": "Ceramic Coffee Mug - Edition 2",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 399,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 2 in our Home collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "f9b455f2-10cb-4a53-9433-bafd57f25d9e",
+    "name": "Ceramic Coffee Mug - Edition 3",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 499,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 3 in our Home collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "b476d944-4acd-482f-b022-e9165dd39bb0",
+    "name": "Ceramic Coffee Mug - Edition 4",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 599,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 4 in our Home collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "e00ac277-3799-47fa-9c02-00aee85ea3b0",
+    "name": "Ceramic Coffee Mug - Edition 5",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 699,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 5 in our Home collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "4adb2421-9999-4923-8cdf-c5889acfd4ac",
+    "name": "Ceramic Coffee Mug - Edition 6",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 799,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 6 in our Home collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "00f2f403-27fc-44c6-8d89-fef2df2c0195",
+    "name": "Ceramic Coffee Mug - Edition 7",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 899,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 7 in our Home collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "9b5d7b83-1c4a-4452-92ef-2279481b1fd3",
+    "name": "Ceramic Coffee Mug - Edition 8",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 999,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 8 in our Home collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "0e52676b-d692-461a-8666-6455b0a950ff",
+    "name": "Ceramic Coffee Mug - Edition 9",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 1099,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 9 in our Home collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "dfb6f424-0c23-4b25-a4ff-f10a0c598029",
+    "name": "Ceramic Coffee Mug - Edition 10",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600",
+    "price": 1199,
+    "rating": 4.0,
+    "description": "A reusable ceramic mug for coffee, tea, and other hot drinks. This is edition 10 in our Home collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "92682a8c-dec7-469c-a57c-3e31a1b89e83",
+    "name": "Desk Lamp - Edition 1",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 999,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 1 in our Home collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "a7312750-b179-4040-9fef-56943de580ea",
+    "name": "Desk Lamp - Edition 2",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1099,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 2 in our Home collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "fac2926e-f475-4013-8d85-acab404d3ba7",
+    "name": "Desk Lamp - Edition 3",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1199,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 3 in our Home collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "36885b17-1be5-4ad7-a652-3fe484ddb127",
+    "name": "Desk Lamp - Edition 4",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1299,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 4 in our Home collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "5e55f4b8-ca7d-4a3b-a395-a09c32d2e300",
+    "name": "Desk Lamp - Edition 5",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1399,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 5 in our Home collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "a6e4e19e-045e-4b4d-b2b9-7b0cf81c0ecf",
+    "name": "Desk Lamp - Edition 6",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1499,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 6 in our Home collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "81dd7e63-853c-48e8-9ecd-3ccdb342e836",
+    "name": "Desk Lamp - Edition 7",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1599,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 7 in our Home collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "1d413d0f-cbbd-426a-b12f-bf28ee19aab1",
+    "name": "Desk Lamp - Edition 8",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1699,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 8 in our Home collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "a2c0e72c-3e2b-4eec-930b-f295d7bd63cc",
+    "name": "Desk Lamp - Edition 9",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1799,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 9 in our Home collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "0f81dc8b-3c77-4a41-aefa-969aeb065cef",
+    "name": "Desk Lamp - Edition 10",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600",
+    "price": 1899,
+    "rating": 4.3,
+    "description": "A contemporary desk lamp for a study table or workspace. This is edition 10 in our Home collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "1cd37dc7-fe53-431a-96e0-31d4d0dfd0a1",
+    "name": "Bluetooth Speaker - Edition 1",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 1799,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 1 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "047e3ef9-0332-4745-9583-869e97f471c7",
+    "name": "Bluetooth Speaker - Edition 2",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 1899,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 2 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "589756ae-c004-4e07-80a7-ba863626192d",
+    "name": "Bluetooth Speaker - Edition 3",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 1999,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 3 in our Electronics collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "1633c822-b398-4e97-af2c-398bc0f39a40",
+    "name": "Bluetooth Speaker - Edition 4",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 2099,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 4 in our Electronics collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "53a85828-4fc5-48d7-af40-8b8dbc46b985",
+    "name": "Bluetooth Speaker - Edition 5",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 2199,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 5 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "c628451f-f78d-47a3-a201-13117464e05c",
+    "name": "Bluetooth Speaker - Edition 6",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 2299,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 6 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "4410003c-eae4-4a78-813b-1c8f71f08472",
+    "name": "Bluetooth Speaker - Edition 7",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 2399,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 7 in our Electronics collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "52cfc2c1-932c-4f27-b59e-20ded2fb7206",
+    "name": "Bluetooth Speaker - Edition 8",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 2499,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 8 in our Electronics collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "1b1128c6-6aaf-44a5-9c16-fcc712d602de",
+    "name": "Bluetooth Speaker - Edition 9",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 2599,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 9 in our Electronics collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "c1785f2e-a739-48e0-ab1b-6ee767e9589c",
+    "name": "Bluetooth Speaker - Edition 10",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600",
+    "price": 2699,
+    "rating": 4.4,
+    "description": "A portable-style speaker for listening to music and audio. This is edition 10 in our Electronics collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "be8d6817-1f10-4c66-a5a9-026e63515c1f",
+    "name": "Classic Wrist Watch - Edition 1",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2199,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 1 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "340adc13-40f6-401b-b0d8-db59dbfe697e",
+    "name": "Classic Wrist Watch - Edition 2",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2299,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 2 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "fe831929-128c-401a-898c-63727e8524ae",
+    "name": "Classic Wrist Watch - Edition 3",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2399,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 3 in our Accessories collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "f37c507a-6f1a-4ade-a522-3932c5c27fdf",
+    "name": "Classic Wrist Watch - Edition 4",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2499,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 4 in our Accessories collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "b0566469-9ca5-4105-8c82-05323a9d1645",
+    "name": "Classic Wrist Watch - Edition 5",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2599,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 5 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "cde94c60-c1ce-4087-8586-d068870a1259",
+    "name": "Classic Wrist Watch - Edition 6",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2699,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 6 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "b3b6b51d-65d5-4693-9446-ef8164e910e5",
+    "name": "Classic Wrist Watch - Edition 7",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2799,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 7 in our Accessories collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "c826e1ec-7637-4e33-8745-70a544a22e4c",
+    "name": "Classic Wrist Watch - Edition 8",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2899,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 8 in our Accessories collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "56fe5bff-8292-460c-b2d9-a62884a91a92",
+    "name": "Classic Wrist Watch - Edition 9",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 2999,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 9 in our Accessories collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "cf4bd935-ab39-43ee-aab6-729a3a076a1c",
+    "name": "Classic Wrist Watch - Edition 10",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=600",
+    "price": 3099,
+    "rating": 4.2,
+    "description": "A classic wristwatch design for everyday use and special occasions. This is edition 10 in our Accessories collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "715bf7fa-32f4-499f-9cb1-fc6d5dd354e4",
+    "name": "Perfume - Edition 1",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1299,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 1 in our Beauty collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "6fbba708-5122-4a33-89b6-3f24ce5a8088",
+    "name": "Perfume - Edition 2",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1399,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 2 in our Beauty collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "06c23d02-e8f2-4615-845d-92c96d345333",
+    "name": "Perfume - Edition 3",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1499,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 3 in our Beauty collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "9895706f-2078-448d-a973-ab76f3c97f3f",
+    "name": "Perfume - Edition 4",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1599,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 4 in our Beauty collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "69b4f380-fd76-4c6e-98ba-25383b6c362c",
+    "name": "Perfume - Edition 5",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1699,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 5 in our Beauty collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "bf15fbaf-f2ab-490e-bbca-7a0b1e146bec",
+    "name": "Perfume - Edition 6",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1799,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 6 in our Beauty collection.",
+    "availability": "Few Available"
+  },
+  {
+    "id": "02b81daf-0498-4098-b851-53713d99e2e9",
+    "name": "Perfume - Edition 7",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1899,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 7 in our Beauty collection.",
+    "availability": "Soon to Be Out of Stock"
+  },
+  {
+    "id": "40f72cac-0847-4ba4-908c-3fd9cd91d5e7",
+    "name": "Perfume - Edition 8",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 1999,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 8 in our Beauty collection.",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": "7c3c7f30-1285-4fe3-ba38-e9c58511da65",
+    "name": "Perfume - Edition 9",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 2099,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 9 in our Beauty collection.",
+    "availability": "Available"
+  },
+  {
+    "id": "249f7428-7328-458c-acc2-36ddaa6f456d",
+    "name": "Perfume - Edition 10",
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600",
+    "price": 2199,
+    "rating": 4.1,
+    "description": "A fragrance product in an elegant bottle, suitable for personal use or gifting. This is edition 10 in our Beauty collection.",
+    "availability": "Few Available"
+  }
+]

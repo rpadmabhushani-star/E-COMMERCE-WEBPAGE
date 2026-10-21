@@ -1,0 +1,147 @@
+
+.home-page {
+  min-height: 100vh;
+  padding: 32px 0 60px;
+  background: #f5f7fb;
+  color: #1e293b;
+
+  .home-banner {
+    padding: 55px 40px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #e0edff, #f1f6ff);
+    border: 1px solid #d9e7ff;
+
+    .banner-label {
+      display: block;
+      color: #1769c2;
+      font-weight: 700;
+      letter-spacing: 2px;
+      margin-bottom: 12px;
+    }
+
+    .banner-title {
+      font-weight: 800;
+      line-height: 1.2;
+      color: #163b68;
+      margin-bottom: 16px;
+    }
+
+    .banner-description {
+      max-width: 600px;
+      color: #52657d;
+      line-height: 1.8;
+    }
+  }
+
+  .products-section {
+    .products-heading {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 24px;
+      margin-bottom: 28px;
+      flex-wrap: wrap;
+
+      .section-title {
+        font-weight: 800;
+        color: #172b4d;
+        margin-bottom: 6px;
+      }
+
+      .product-count {
+        color: #64748b;
+      }
+
+      .product-search {
+        width: 300px;
+        max-width: 100%;
+
+        .MuiOutlinedInput-root {
+          background: #fff;
+          border-radius: 12px;
+
+          &:hover fieldset {
+            border-color: #1769c2;
+          }
+
+          &.Mui-focused fieldset {
+            border-color: #1769c2;
+          }
+        }
+      }
+    }
+
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 24px;
+      align-items: stretch;
+    }
+
+    .no-products {
+      padding: 60px 20px;
+      text-align: center;
+      background: #fff;
+      border-radius: 16px;
+      color: #64748b;
+
+      h6 {
+        color: #172b4d;
+        margin-bottom: 10px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1100px) {
+  .home-page .products-section .products-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .home-page {
+    padding-top: 20px;
+
+    .home-banner {
+      padding: 35px 24px;
+
+      .banner-title {
+        font-size: 2rem;
+      }
+    }
+
+    .products-section {
+      .products-heading {
+        align-items: stretch;
+        flex-direction: column;
+
+        .product-search {
+          width: 100%;
+        }
+      }
+
+      .products-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+      }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .home-page {
+    .home-banner {
+      padding: 28px 18px;
+
+      .banner-title {
+        font-size: 1.7rem;
+      }
+    }
+
+    .products-section .products-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+}

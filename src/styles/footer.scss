@@ -1,0 +1,59 @@
+
+.shop-footer {
+  margin-top: 48px;
+  padding: 36px 0 16px;
+  background-color: #172033;
+  color: #ffffff;
+
+  .footer-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1.5fr;
+    gap: 36px;
+    padding-bottom: 28px;
+  }
+
+  .footer-about,
+  .footer-links,
+  .footer-contact {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .footer-logo {
+    color: #90caf9;
+    font-weight: 800;
+  }
+
+  .footer-about p,
+  .footer-contact p {
+    color: #d0d5df;
+    line-height: 1.7;
+  }
+
+  .footer-links a {
+    color: #d0d5df;
+    font-size: 14px;
+
+    &:hover {
+      color: #90caf9;
+    }
+  }
+
+  .footer-bottom {
+    border-top: 1px solid #394255;
+    padding-top: 16px;
+    text-align: center;
+    color: #d0d5df;
+  }
+}
+
+@media (max-width: 700px) {
+  .shop-footer {
+    .footer-content {
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+  }
+}
